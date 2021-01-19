@@ -1,0 +1,9 @@
+@media (min-width: 576px) { .responsive{width: 50%;} }
+
+@media (min-width: 768px) { .responsive{width: 30%;}}
+
+@media (min-width: 992px) { .responsive{width: 30%;} }
+
+@media (min-width: 1200px) { .responsive{width: 30%;} }
+
+@media (min-width: 1400px) { .responsive{width: 30%;} }
